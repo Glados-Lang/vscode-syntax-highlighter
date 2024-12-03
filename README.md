@@ -1,3 +1,3 @@
-# xenon-syntax-highlighting
+# Xenon Syntax Highlighting
 
-Adds TextMate-based syntax highlighting for the Xenon language.
+Adds TextMate-based syntax highlighter for the Xenon language.
