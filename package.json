@@ -1,8 +1,9 @@
 {
   "name": "xenon-syntax-highlighting",
-  "displayName": "xenon-syntax-highlighting",
+  "displayName": "Xenon Syntax Highlighting",
   "description": "A syntax highlighter for the Xenon language.",
-  "version": "0.0.1",
+  "repository": {"url": "https://github.com/Xenon-Lang-Org/vscode-syntax-highlighter"},
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
   },
