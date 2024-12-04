@@ -41,6 +41,7 @@ jobs:
     - name: Package VS Code Extension
       run: |
         vsce package
+        mv *.vsix xenon-${{ env.NEXT_VERSION }}.vsix
 
     - name: Publish release
       env:
